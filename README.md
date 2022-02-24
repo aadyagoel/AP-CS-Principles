@@ -9,6 +9,6 @@ However, the math in this was a bit hard to code in processing so it wasn't inco
 
 In order to play the game, one can use the keys 'b' and 'c' to move the earth (which is the player) right or left to avoid the methane (grey), c02 (red), and ozone (blue) particles that will fall from the sky, and are in real life stopping radiation in the earth from going outside and reflecting it back in. 
 
-In order to run the code in the repository: climateChange2, one has to download the image: earth_PNG21 and save it in the same folder as the processing climateChange2 application file. (folder has to also be named climateChange2). 
+In order to run the code in the repository (folder with all the code files): climateChange2, one has to download the climateChange2 code, and an image: earth_PNG21 (this will also be in the repository) and save it in the same folder as the processing climateChange2 application file. (folder has to also be named climateChange2). 
 
 Thank you for reading!😊
