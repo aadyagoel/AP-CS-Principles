@@ -1,7 +1,7 @@
 # AP-CS-Principles
 archive2019
 
-hellooo, github pages can look intimidating but don't hit the panic button! It's actually pretty easy, if uh you actually want to run my faulty code (see last line). The code should be above this Read Me file and to preview any of the code files you can click on them, and download if you'd like to run. 
+hellooo, github pages can look intimidating but don't hit the panic button! It's actually simple if uh you actually want to run my faulty code (see last line). The code should be above this Read Me file and to preview any of the code files you can click on them, and download if you'd like to run. 
 
 Final Project: climateChange2; is a game in which the player has to avoid the greenhouse gases (methane, co2, ozone), (in order of deadly), for 60 seconds to prevent a max global temperature rise of 1.5 degrees celcius; the gases are in the form of particles and the amount they contribute to temperature rise is proportional (though only in terms of which is more deadly), to real life. As the temperature rises, the background of the screen gradually goes from light blue to orange. Although hard, it is possible to win. 
 
