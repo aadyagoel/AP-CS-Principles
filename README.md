@@ -1,7 +1,7 @@
 # AP-CS-Principles
 archive 2019
 
-PS I basically used the comments in this code as a journal so its kinda funny to read 😂 
+PS I basically used the comments in some of these codes as a journal so its kinda funny to read 😂 
 
 hi! github pages can look intimidating but don't hit the panic back button! They're actually pretty simple to navigate: 
 If you'd like to run or see this code, it should be above this Read Me file and you can click on them to preview any of the code files or download if you'd like to run (with the software required to run it - this is processing 5)
