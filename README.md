@@ -5,6 +5,6 @@ Designed a game based on climate change for the final project that showcased how
 
 An extension I want to do is implement the temperature rise according to the actual equations. 
 
-*How to play:*
+**How to play:**
 
 The game is to avoid all the greenhouse gas particles up to a certain time limit (50 seconds) where if temperatures don't rise by 1.5 degrees, you win. If you don't avoid enough particles, and temperatures rise by at least 1.5 degrees in 50 seconds you lose. 
